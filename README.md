@@ -9,6 +9,24 @@ Chat Decentralized Application (abbreviated as Chat DApp) is a blockchain-based 
 - ReactJS (for creating frontend UI)
 - CSS
 
+## How to run the application
+1. Clone the repository on the local machine by executing the following commands:
+```shell
+git clone https://github.com/Pratik1603/Chat-DAPP
+```
+
+2. Install the required dependencies:
+```shell
+npm install
+cd ./client
+npm install
+```
+
+3. Run the React Application:
+```shell
+npm run start
+```
+
 ## How to chat on the application
 1. The prerequisites to use the application is to have preinstalled **Metamask** extension on your browser. Metamask is an extension that allows the user to connect and create accounts to perform transactions of **Ether**. If the Metamask is installed, then create a new account on the Metamask, if not having any account beforehand.
 
