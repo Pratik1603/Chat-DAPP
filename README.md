@@ -17,6 +17,7 @@ git clone https://github.com/Pratik1603/Chat-DAPP
 
 2. Install the required dependencies:
 ```shell
+cd ./Chat-DAPP
 npm install
 cd ./client
 npm install
